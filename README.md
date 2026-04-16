@@ -89,8 +89,9 @@ JavaScript • Estruturas de Dados • Frameworks • Inteligência Artificial
 ```javascript
 while(!sucesso) {
     estudar();
-    praticar();
+    executar();
     evoluir();
+    Trabalho em equipe();
 }
 ```
 
